@@ -19,7 +19,7 @@ Installation
 Clone the repository:
 
 Bash
-git clone https://github.com/your-username/autoclicker.git
+git clone https://github.com/Lebrn7/autoclicker.git
 Navigate to the folder:
 
 Bash
